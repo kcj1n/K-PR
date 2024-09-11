@@ -11,6 +11,29 @@ https://github.com/user-attachments/assets/cc44cbb9-ade2-4676-ac98-7223960d5c7b
 ## Demo Figure2
 https://github.com/user-attachments/assets/cc44cbb9-ade2-4676-ac98-7223960d5c7b
 
+
+We cannot upload files due to intellectual property issues related to the images and videos.
+To run thie KITECH-PR, 
+
+in src/pages/View.jsx
+
+1. Add jpg image and edit to  
+   const textures = useTexture([
+    "./assets/kitech_history/01_1900_00.jpg"
+.....
+2. Add gltf and edit
+   const gallery    = useGLTF(`./assets/modeles/vr_gallery/scene.gltf`); 
+   ....
+3. Add audio and edit 
+   audioLoader.load(`./assets/sounds/ambiance.mp3`
+   ....
+
+in src/components/Video/VideoMp4.jsx
+   
+4. Add  mp4 file and edit 
+ to <VideoText muted={!isClicked} url= "./assets/video/kitech_5min_640x360.mp4" />
+
+ 
 ##--------------------------------------------------------------------------------
 # Getting Started with Create React App
 
