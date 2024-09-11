@@ -11,7 +11,6 @@ https://github.com/user-attachments/assets/cc44cbb9-ade2-4676-ac98-7223960d5c7b
 ## Demo Figure2
 https://github.com/user-attachments/assets/cc44cbb9-ade2-4676-ac98-7223960d5c7b
 
-
 We cannot upload files due to intellectual property issues related to the images and videos.
 To run thie KITECH-PR, 
 
@@ -28,11 +27,11 @@ in src/pages/View.jsx
    audioLoader.load(`./assets/sounds/ambiance.mp3`
    ....
 
-in src/components/Video/VideoMp4.jsx
-   
+in src/components/Video/VideoMp4.jsx   
 4. Add  mp4 file and edit 
  to <VideoText muted={!isClicked} url= "./assets/video/kitech_5min_640x360.mp4" />
 
+Good Luck~~~
  
 ##--------------------------------------------------------------------------------
 # Getting Started with Create React App
