@@ -29,7 +29,7 @@ in src/pages/View.jsx
 
 in src/components/Video/VideoMp4.jsx   
 4. Add  mp4 file and edit 
- to <VideoText muted={!isClicked} url= "./assets/video/kitech_5min_640x360.mp4" />
+ to VideoText muted={!isClicked} url= "./assets/video/kitech_5min_640x360.mp4" 
 
 Good Luck~~~
  
