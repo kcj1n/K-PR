@@ -8,8 +8,8 @@ https://github.com/user-attachments/assets/cc44cbb9-ade2-4676-ac98-7223960d5c7b
 ## Demo Figure2
 https://github.com/user-attachments/assets/cc44cbb9-ade2-4676-ac98-7223960d5c7b
 
-## Demo Figure2
-https://github.com/user-attachments/assets/cc44cbb9-ade2-4676-ac98-7223960d5c7b
+## Demo Figure3
+https://github.com/user-attachments/assets/85287c2f-fce9-453c-994a-f911bf898b9c
 
 We cannot upload files due to intellectual property issues related to the images and videos.
 To run thie KITECH-PR, 
