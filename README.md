@@ -1,3 +1,17 @@
+# KITECH-PR
+The code performs the function of displaying videos and films in a virtual exhibition hall.
+Only the JavaScript code has been uploaded, and you need to upload files to the image and video directories.
+
+## Demo Figure1
+https://github.com/user-attachments/assets/cc44cbb9-ade2-4676-ac98-7223960d5c7b
+
+## Demo Figure2
+https://github.com/user-attachments/assets/cc44cbb9-ade2-4676-ac98-7223960d5c7b
+
+## Demo Figure2
+https://github.com/user-attachments/assets/cc44cbb9-ade2-4676-ac98-7223960d5c7b
+
+##--------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
